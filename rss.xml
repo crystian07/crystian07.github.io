@@ -2,7 +2,6 @@
 <channel>
 <title>Test</title>
 <domain>https://crystian07.github.io</domain>
-<webmaster>kontakt@ard.de</webmaster>
 <description>
 Test
 </description>
@@ -24,6 +23,7 @@ https://www.averagehunter.com/mp3/song_birds/15redwingblackbird.mp3
 <guid>
 https://www.averagehunter.com/mp3/song_birds/15redwingblackbird.mp3
 </guid>
+<enclosure url="https://www.averagehunter.com/mp3/song_birds/15redwingblackbird.mp3" length="0" type="audio/mpeg"/>  
 </item>
 </channel>
 </rss>
