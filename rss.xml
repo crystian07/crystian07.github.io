@@ -1,0 +1,29 @@
+<rss version="2.0">
+<channel>
+<title>Test</title>
+<domain>https://crystian07.github.io</domain>
+<webmaster>kontakt@ard.de</webmaster>
+<description>
+Test
+</description>
+<link>https://crystian07.github.io/</link>
+<language>en</language>
+<copyright>Copyright 2022</copyright>
+<pubDate>Thu, 30 Apr 2009 11:00:00 +0200</pubDate>
+<lastBuildDate>Thu, 30 Apr 2009 11:00:00 +0200</lastBuildDate>
+<category>Arts</category>
+<item>
+<title>Test</title>
+<pubDate>Wed, 16 Feb 2022 09:00:00 +0200</pubDate>
+<description>
+Test
+</description>
+<link>
+https://www.averagehunter.com/mp3/song_birds/15redwingblackbird.mp3
+</link>
+<guid>
+https://www.averagehunter.com/mp3/song_birds/15redwingblackbird.mp3
+</guid>
+</item>
+</channel>
+</rss>
